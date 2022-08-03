@@ -20,4 +20,5 @@ We will be using Metaplex's Candy Machine program. Which allow user to randomly 
   Phantom Wallet. 
 
 # Useful command 
-Please follow instruction in this link: https://docs.metaplex.com/guides/archived/candy-machine-v2/getting-started
+Please follow instruction in this link: https://docs.metaplex.com/guides/archived/candy-machine-v2/getting-started   
+ts-node src/candy-machine-v2-cli.ts --version
