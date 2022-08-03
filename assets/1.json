@@ -1,0 +1,15 @@
+{
+    "name": "Travis",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [{ "url": "1.png", "type": "image/png" }],
+      "creators": [
+        {
+          "address": "Your_wallet_address",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
