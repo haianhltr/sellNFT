@@ -19,3 +19,5 @@ We will be using Metaplex's Candy Machine program. Which allow user to randomly 
   Solana installed. 
   Phantom Wallet. 
 
+# Useful command 
+Please follow instruction in this link: https://docs.metaplex.com/guides/archived/candy-machine-v2/getting-started
