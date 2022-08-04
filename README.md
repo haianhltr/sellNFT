@@ -21,4 +21,8 @@ We will be using Metaplex's Candy Machine program. Which allow user to randomly 
 
 # Useful command 
 Please follow instruction in this link: https://docs.metaplex.com/guides/archived/candy-machine-v2/getting-started   
-ts-node src/candy-machine-v2-cli.ts --version
+`ts-node src/candy-machine-v2-cli.ts --version`  
+`ts-node ~/Solana-project-July/deprecated-clis/src/candy-machine-v2-cli.ts upload -e devnet -k ~/.config/solana/id.json -cp config.json ./assets`  
+`ts-node ~/Solana-project-July/deprecated-clis/src/candy-machine-v2-cli.ts verify_upload -e devnet -k ~/.config/solana/id.json`
+# Candy machine publicKey  
+7ezdFGFdCJkjeF2W4H9QEZwoDN4DjLnJjRM45mEqAzET
