@@ -1,12 +1,12 @@
 {
-  "name": "Travis",
-  "symbol": "",
+  "name": "Carti",
+  "symbol": "CRT",
   "image": "0.png",
   "properties": {
     "files": [{ "url": "0.png", "type": "image/png" }],
     "creators": [
       {
-        "address": "Your_wallet_address",
+        "address": "9jcVWLaPwGnxW2Mj7hhkFCncnRnGZg6KbuQNc3bevBpU",
         "share": 100
       }
     ]
