@@ -1,0 +1,32 @@
+{
+  "program": {
+    "uuid": "7ezdFG",
+    "candyMachine": "7ezdFGFdCJkjeF2W4H9QEZwoDN4DjLnJjRM45mEqAzET",
+    "collection": "qyXU9qgmoEtiAuworAJS7RXC9XagFFsnecpEczKubxL"
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/GajujDGPdaaP50xP4xIPucMT-VUmy4hE6qPkoMzRlbY",
+      "imageLink": "https://arweave.net/0J2gf_3IirG5q967j48OX6cCPa5BnJm540Hc9o30ejc?ext=png",
+      "name": "Carti",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "1": {
+      "link": "https://arweave.net/Pl7bsyQymivYyoiNOvy1gU282IOyYlKf0IIrp_8BYNM",
+      "imageLink": "https://arweave.net/rh_ql8Njgld45VchdmkF1aHDgGWsAErnnr-rs2T1N_0?ext=png",
+      "name": "JUICE",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "2": {
+      "link": "https://arweave.net/Jh-zl3fGlGcnNdXCfofbqfZVeGlpy2wxTSoyhb60m7U",
+      "imageLink": "https://arweave.net/3M6Jd2EL3iwwGV8Il9gF9H_ue2Ke6Rn5aJSRYKoNXC8?ext=png",
+      "name": "Travis",
+      "onChain": true,
+      "verifyRun": true
+    }
+  },
+  "env": "devnet",
+  "cacheName": "temp"
+}

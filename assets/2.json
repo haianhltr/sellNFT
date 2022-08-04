@@ -1,0 +1,15 @@
+{
+    "name": "Travis",
+    "symbol": "TRV",
+    "image": "2.png",
+    "properties": {
+      "files": [{ "url": "2.png", "type": "image/png" }],
+      "creators": [
+        {
+          "address": "9jcVWLaPwGnxW2Mj7hhkFCncnRnGZg6KbuQNc3bevBpU",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
